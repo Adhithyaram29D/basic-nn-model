@@ -92,14 +92,12 @@ AI_Brain.predict(X_n1_1)
 
 ```
 ## Dataset Information
-
-![image](https://github.com/Adhithyaram29D/basic-nn-model/assets/119393540/faff0ddd-f596-42d6-b9b6-fcc38220614d)
+<img src="https://github.com/Adhithyaram29D/basic-nn-model/assets/119393540/b20048e1-3c9d-4948-a8cc-33cc142d64fd" height="300">
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
-
-![image](https://github.com/Adhithyaram29D/basic-nn-model/assets/119393540/af7bc21c-6e75-45b2-9768-42771235ec19)
+<img src="https://github.com/Adhithyaram29D/basic-nn-model/assets/119393540/ceebd751-5a43-448b-8fe3-8385511469b2" width="400">
 
 ### Test Data Root Mean Squared Error
 
