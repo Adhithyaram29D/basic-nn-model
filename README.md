@@ -107,8 +107,7 @@ AI_Brain.predict(X_n1_1)
 <img src="https://github.com/Adhithyaram29D/basic-nn-model/assets/119393540/ceebd751-5a43-448b-8fe3-8385511469b2" width="400">
 
 ### Test Data Root Mean Squared Error
-
-Find the test data root mean squared error
+![Screenshot 2024-02-27 193051](https://github.com/Adhithyaram29D/basic-nn-model/assets/119393540/48f32194-2013-441a-9358-f79792879652)
 
 ### New Sample Data Prediction
 
