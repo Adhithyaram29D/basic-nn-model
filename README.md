@@ -16,7 +16,7 @@ There are 5 hidden layers in this model, making it a deep neural network. These 
 The output layer produces the final result or prediction. Each node in the output layer represents either a class (for classification tasks) or a continuous value (for regression tasks). The exact nature of the output depends on the specific requirements of the problem being addressed.
 
 ## Neural Network Model
-<img src="https://github.com/Adhithyaram29D/basic-nn-model/assets/119393540/de6bb3c7-2024-459e-81a0-793d4e67e3f3" width="500">
+<img src="https://github.com/Adhithyaram29D/basic-nn-model/assets/119393540/de6bb3c7-2024-459e-81a0-793d4e67e3f3" width="600">
 
 ## DESIGN STEPS
 
